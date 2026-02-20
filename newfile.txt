@@ -1,2 +1,5 @@
 test connector 1 - 21:25 
+test connector 1 - 21:25 
 test connector 2 - 21:44 
+test connector 1 - 10:40
+ 
